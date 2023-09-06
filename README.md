@@ -28,10 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
+<img src="./screenshots/desktop-result.png" alt="desktop-result">
+<img src="./screenshots/mobile-result.png"  alt="mobile-result">
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repo](https://github.com/aviralsharma07/base-apparel-coming-soon)
+- Live Site URL: [Live Project Link](https://base-apparel-coming-soon-avi.netlify.app/)
 
 ## My process
 
@@ -43,6 +45,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Blogs - [My Hashnode Blogs](https://hashnode.com/@aviralsharma)
+- Frontend Mentor - [aviralsharma07](https://www.frontendmentor.io/profile/aviralsharma07)
+- Twitter - [\_aviral07](https://www.twitter.com/_aviral07)
